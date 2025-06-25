@@ -1,0 +1,75 @@
+# 👉 Ignorar datasets locais (imagens e zips)
+data/Plastic types/
+data/*.zip
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+# 👉 Ignorar arquivos de vídeo e outros tipos multimídia (caso use com OpenCV)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 👉 Ignorar pesos, modelos e checkpoints (usados com TensorFlow/Keras/OpenCV)
+*.h5
+*.hdf5
+*.pb
+*.tflite
+*.onnx
+*.pt
+*.pth
+checkpoints/
+models/
+runs/
+logs/
+saved_model/
+training_checkpoints/
+inference_graph/
+
+# 👉 Ignorar resultados exportados
+*.csv
+*.xlsx
+*.json
+*.xml
+*.txt
+
+# 👉 Ignorar arquivos de ambiente virtual e bibliotecas
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# 👉 Ignorar arquivos e pastas temporárias de notebooks
+.ipynb_checkpoints/
+
+# 👉 Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# 👉 Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# 👉 Ignorar arquivos de cache do TensorFlow
+.cache/
+*.tensorboard-info/
+events.out.tfevents.*
+
+# 👉 Ignorar exportações automáticas
+exported-models/
+*.tar.gz
+*.zip
+*.tar
+
+# 👉 Ignorar submissões de competição
+submission.csv
+
+# 👉 Ignorar arquivos de debug/logs
+*.log
