@@ -1,5 +1,5 @@
 # 👉 Ignorar datasets locais (imagens e zips)
-data/Plastic types/
+data/Plastic_Classification/
 data/*.zip
 *.jpg
 *.jpeg
