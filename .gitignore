@@ -12,6 +12,7 @@ data/*.zip
 *.webp
 
 doc/Links.md
+doc/README.md
 
 # 👉 Ignorar arquivos de vídeo e outros tipos multimídia (caso use com OpenCV)
 *.mp4
