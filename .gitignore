@@ -10,9 +10,11 @@ data/*.zip
 *.avif
 *.jfif
 *.webp
+*.keras
 
 doc/Links.md
 doc/README.md
+modelos/modelos
 
 # 👉 Ignorar arquivos de vídeo e outros tipos multimídia (caso use com OpenCV)
 *.mp4
