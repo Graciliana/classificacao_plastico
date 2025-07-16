@@ -20,6 +20,7 @@ models/models/01_logistic_regression
 models/models/02_naive_bayes
 models/models/03_random_florest
 models/models/04_svm
+models/models/05_cnn
 models/models/test_data_for_comparisons.joblib
 
 
