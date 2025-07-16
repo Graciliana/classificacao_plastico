@@ -15,6 +15,7 @@ data/*.zip
 doc/Links.md
 doc/README.md
 modelos/modelos
+models/models/01_logistic_regression
 
 # 👉 Ignorar arquivos de vídeo e outros tipos multimídia (caso use com OpenCV)
 *.mp4
