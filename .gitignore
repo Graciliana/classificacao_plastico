@@ -32,7 +32,6 @@ models/models/01_logistic_regression
 *.pt
 *.pth
 checkpoints/
-models/
 runs/
 logs/
 saved_model/
