@@ -15,7 +15,10 @@ data/*.zip
 doc/Links.md
 doc/README.md
 modelos/modelos
+models/models
 models/models/01_logistic_regression
+models/models/02_naive_bayes
+
 
 # 👉 Ignorar arquivos de vídeo e outros tipos multimídia (caso use com OpenCV)
 *.mp4
